@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elena</h1>
-<h3 align="center">A dual degree student</h3>
+<!--<h3 align="center">A dual degree student</h3>-->
 
 ![efds24's github stats](https://github-readme-stats.vercel.app/api?username=efds24)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efds24)](https://github.com/efds24/github-readme-stats)
