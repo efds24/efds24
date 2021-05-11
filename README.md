@@ -2,7 +2,7 @@
 <h3 align="center">A dual degree student</h3>
 
 ![efds24's github stats](https://github-readme-stats.vercel.app/api?username=efds24)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efds24)](https://github.com/efds24/github-readme-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
