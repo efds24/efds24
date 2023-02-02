@@ -3,11 +3,6 @@
 
 ⚡**I am very constant and a perfectionist- I am willing to accept any challenge that comes my way.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/elena-fdez-sel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/elena-fdez-sel/" height="30" width="40" /></a>
-</p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efds24)](https://github.com/efds24/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
