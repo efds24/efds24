@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elena</h1>
 <h3 align="center">Computer Science and Mathematics student</h3>
 
-⚡**I am very constant and a perfectionist- I am willing to accept any challenge that comes my way.**
+⚡**I am very constant and a perfectionist. I am willing to accept any challenge that comes my way.**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efds24)](https://github.com/efds24/github-readme-stats)
 
